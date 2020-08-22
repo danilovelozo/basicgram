@@ -11,14 +11,14 @@ An example of Node + Express (API), with VueJS (frontend), using TypeScript.
 `npm run dev`
 
 
-Run command below on another terminal tab:
+* Run command below on another terminal tab:
 
 `cd view`
 
 `npm run dev`
 
 
-Default URL:
+* Default URL:
 
 `http://localhost:8080`
 
