@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "danilo",
+    "password": "root",
+    "database": "basicgram_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "danilo",
+    "password": "root",
+    "database": "basicgram_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "danilo",
+    "password": "root",
+    "database": "basicgram_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
