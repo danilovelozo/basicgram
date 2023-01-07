@@ -34,7 +34,7 @@
   "dependencies": {
     "autoprefixer": "^9.8.0",
     "blitz-resize": "^0.4.0",
-    "onsenui": "^2.10.10",
+    "onsenui": "^2.12.6",
     "postcss": "^7.0.32",
     "postcss-loader": "^3.0.0",
     "superagent": "^6.0.0",
