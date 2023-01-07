@@ -42,7 +42,7 @@
     "validator": "^13.1.1",
     "vue": "^2.6.11",
     "vue-onsenui": "^2.6.2",
-    "vue-router": "^3.3.2",
+    "vue-router": "^3.6.5",
     "vuex": "^3.4.0",
     "you-are-not": "^0.7.5"
   }
