@@ -32,7 +32,7 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "autoprefixer": "^9.8.0",
+    "autoprefixer": "^9.8.8",
     "blitz-resize": "^0.4.0",
     "onsenui": "^2.10.10",
     "postcss": "^7.0.32",
