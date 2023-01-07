@@ -38,7 +38,7 @@
     "postcss": "^7.0.32",
     "postcss-loader": "^3.0.0",
     "superagent": "^6.0.0",
-    "tailwindcss": "^1.4.6",
+    "tailwindcss": "^1.9.6",
     "validator": "^13.1.1",
     "vue": "^2.6.11",
     "vue-onsenui": "^2.6.2",
