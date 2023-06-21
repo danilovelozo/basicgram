@@ -22,9 +22,9 @@
     "hbs": "~4.0.4",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
-    "pg": "^8.3.2",
+    "pg": "^8.4.0",
     "pg-hstore": "^2.3.3",
-    "sequelize": "^6.0.0-beta.6",
+    "sequelize": "^6.1.0",
     "you-are-not": "^0.7.5"
   },
   "devDependencies": {
